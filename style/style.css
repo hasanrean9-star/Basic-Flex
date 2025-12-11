@@ -1,0 +1,25 @@
+.parent{
+    padding: 25px;
+    background-color: blanchedalmond;
+    display: flex;
+    gap: 15px;
+    justify-content: space-evenly;
+    height: 350px;
+    align-items:center;
+    flex-direction:row;
+    flex-wrap: wrap ;
+}
+
+
+
+
+
+.child{
+    border: 2px solid skyblue;
+    background-color: lightcyan;
+    padding: 20px;
+    font-size: 18px;
+    margin: 10px 0;
+    block-size: 10%;
+    text-align: center;
+}
